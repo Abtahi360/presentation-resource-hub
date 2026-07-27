@@ -43,11 +43,9 @@ The screenshots below will provide a preview of selected PowerPoint slides, rese
 
 screenshots/powerpoint-presentation-preview.png
 
-### Research Poster Preview
+### Thesis Poster Preview
 
-<!-- Replace the placeholder path with the actual screenshot path -->
-
-screenshots/research-poster-preview.png
+Thesis-Poster-Collection/1.jpeg
 
 ### Slide Collection Preview
 
