@@ -45,7 +45,7 @@ screenshots/powerpoint-presentation-preview.png
 
 ### Thesis Poster Preview
 
-Thesis-Poster-Collection/1.jpeg
+![Thesis Poster Preview](Thesis-Poster-Collection/1.jpeg)
 
 ### Slide Collection Preview
 
